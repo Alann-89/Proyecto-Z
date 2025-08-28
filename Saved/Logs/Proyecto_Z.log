@@ -1246,3 +1246,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.08.28-03.22.38:101][807]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/alang/OneDrive/Documentos/Unreal Projects/Proyecto_Z'
 [2025.08.28-03.22.38:101][807]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/alang/OneDrive/Documentos/Unreal Projects/Proyecto_Z'
 [2025.08.28-03.22.38:177][807]EditorErrors: Warning: No hay recursos para registrar.
+[2025.08.28-03.23.41:693][304]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 986.679688
+[2025.08.28-03.23.42:695][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.08.28-03.23.42:695][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 987.345947, Update Interval: 317.007355
